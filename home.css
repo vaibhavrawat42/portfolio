@@ -1,0 +1,44 @@
+body {padding:0; margin:0}
+
+.border {border: 20px solid #ededed; position:fixed; z-index:10; width:97%; height:94%;}
+
+.wrapper {width:98%; height:4000; background-color:transparent; margin: 0 auto 0 auto; position:relative;color: #6c6c6c;}
+
+.head {height:320; background-color:transparent; width:82%; margin:0 auto 0 auto;}
+
+.headtop {height:100; background-color:transparent}
+
+.logo {height:100; background-color:transparent; width:30%; float:left;}
+
+.header {height:100; background-color:transparent; width:70%; float:right; font-family:raleway; text-align:right;}
+
+ul { margin-top:80;} 
+
+li {display:inline; margin:10 0 10 40;}
+
+.headbottom {height:220; background-color:transparent; padding-top: 80; font-family:raleway;}
+
+	p.intro {line-height:1.5; font-size:15; margin-top:-10; }
+	
+	p.heading {font-size:25;}
+
+.main {width:100%; height:100%}
+
+.body {height:3000; width:82%; background-color:transparent; margin:0 auto 0 auto;}
+
+.one, .two, .three {height:13.5%; width:100%; background-color:transparent;}
+
+.onea, .twoa, .threea {height:100%; width:31.5%; background-color:transparent; margin-right:2.75%; float:left;}
+
+.img {height:75%; width:100%; background-color:transparent;}
+
+.text {height:100; width:100%; background-color:transparent; font-family:raleway; color: #6c6c6c;}
+
+.oneb, .twob, .threeb {height:100%; width:31.5%; background-color:transparent; margin-right:2.75%; float:left;}
+
+.onec, .twoc, .threec {height:100%; width:31.5%; background-color:transparent; float:right;}
+
+p.texthead {font-size:25; margin-bottom:-10; margin-top:15;}
+
+p.texttitle {font-size:15;}
+ 
