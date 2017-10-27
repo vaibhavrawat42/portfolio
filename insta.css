@@ -1,0 +1,61 @@
+body {padding:0; margin:0}
+
+.border {border: 20px solid #ededed; position:fixed; z-index:10; width:97%; height:94%;}
+
+.wrapper {width:98%; height:4700; background-color:transparent; margin: 0 auto 0 auto; position:relative;color: #6c6c6c; font-family:raleway;}
+
+.headtop {height:100; background-color:transparent; width:82%; margin:0 auto 0 auto; position:relative}
+
+.logo {height:100; background-color:transparent; width:30%; float:left; padding-top:30; }
+
+.header {height:100; background-color:transparent; width:70%; float:right; font-family:raleway; text-align:right;}
+
+ul { margin-top:80;} 
+
+li {display:inline; margin:10 0 10 40;}
+
+.body{ height:4700; background-color:transparent;width:82%; margin:0 auto 0 auto;}
+
+.one {height:500;  width:1320; margin-left:-120;margin-top:-80; background-color:yellow; position:relative; z-index:-10;}
+
+.two {height:150; background-color:transparent; padding-top:60;}
+
+.title {font-size:25; text-align:center; margin-bottom:-10}
+
+.sub-title {font-size:20; text-align:center}
+
+.three {height:300; background-color:transparent}
+
+.four {height:500; background-color:transparent}
+
+.five {height:20; background-color:transparent; text-align:center; font-size:12;}
+
+.six {height:480; background-color:transparent}
+
+.seven {height:800; background-color:transparent}
+
+.sevena {height:400; width:100%; background-color:transparent}
+
+.sevenb {height:400; width:100%; background-color:transparent}
+
+.boxa, .boxc {height:380; width:48%; background-color:gray; margin-right:4%; float:left;}
+
+.boxb, .boxd {height:380; width:48%; background-color:gray; float:right;}
+
+.eight {height:250; background-color:transparent}
+
+.nine {height:550; background-color:yellow}
+
+.ten {height:250; background-color:transparent}
+
+.eleven {height:250; background-color:transparent}
+
+.twelve {height:180; background-color:transparent}
+
+.thirteen {height:200; background-color:transparent}
+
+span {font-size:16; font-weight:bold}
+
+.footer {font-family:raleway; height: 200; background-color: #ededed; color:#6c6c6c; text-align: center; padding-top:20;}
+
+.footer li {display:inline; margin:0 30 0 0;}
