@@ -19,6 +19,21 @@ table tr td{
     padding: 0;
     
 }
+.head table td a{
+    display: block;
+    text-decoration: none;
+    color: #666;
+    font-weight: 550; 
+}
+
+.head table td a:hover{
+    display: block;
+    text-decoration: none;
+    color: #242321;
+    font-weight: 550;
+    opacity: 1;
+}
+
 a{
     display: block;
     text-decoration: none;
@@ -77,9 +92,15 @@ span {letter-spacing: .6px; font-size:18; font-weight: 500; color: #242321; font
 
 .lowernav table td
 { 
-    font-size: 18px;}
+    font-size: 18px;
+    opacity: .85;
+}
 
-
+.lowernav table td:hover
+{ 
+    font-size: 18px;
+    opacity: 1;
+}
 
 
 .footer {

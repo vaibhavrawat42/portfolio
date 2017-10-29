@@ -6,7 +6,7 @@ body{
 .wrapper{
     width: 87%;
     margin: auto;
-    font-family:Questrial;
+    font-family: Questrial;
 }
 
 table{
@@ -19,6 +19,22 @@ table tr td{
     padding: 0;
     
 }
+
+.head table td a{
+    display: block;
+    text-decoration: none;
+    color: #666;
+    font-weight: 550; 
+}
+
+.head table td a:hover{
+    display: block;
+    text-decoration: none;
+    color: #242321;
+    font-weight: 550;
+    opacity: 1;
+}
+
 a{
     display: block;
     text-decoration: none;
