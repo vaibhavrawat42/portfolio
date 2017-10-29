@@ -1,61 +1,157 @@
-body {padding:0; margin:0}
+body{
+    border: 23px solid #ededed;
+    margin: 0;
+    position: relative;
+}
+.wrapper{
+    width: 87%;
+    margin: auto;
+    font-family:Questrial;
+}
 
-.border {border: 20px solid #ededed; position:fixed; z-index:10; width:97%; height:94%;}
+table{
+    width: 100%;
+    margin-top: 60px;
+}
 
-.wrapper {width:98%; height:4700; background-color:transparent; margin: 0 auto 0 auto; position:relative;color: #6c6c6c; font-family:raleway;}
+table tr td{
+    font-size: 16px;
+    padding: 0;
+    
+}
+.head table td a{
+    display: block;
+    text-decoration: none;
+    color: #666;
+    font-weight: 550; 
+}
 
-.headtop {height:100; background-color:transparent; width:82%; margin:0 auto 0 auto; position:relative}
+.head table td a:hover{
+    display: block;
+    text-decoration: none;
+    color: #242321;
+    font-weight: 550;
+    opacity: 1;
+}
 
-.logo {height:100; background-color:transparent; width:30%; float:left; padding-top:30; }
+a{
+    display: block;
+    text-decoration: none;
+    color: #242321;
+}
 
-.header {height:100; background-color:transparent; width:70%; float:right; font-family:raleway; text-align:right;}
+.one { padding-top:465px;}
 
-ul { margin-top:80;} 
+.title {font-size:25px; text-align:center; margin-top: 100px; margin-bottom:0; color: #282626;}
 
-li {display:inline; margin:10 0 10 40;}
+.sub-title {font-size:16px; text-align:center; letter-spacing: 3px;}
+.text {letter-spacing: .5px; font-size:16; line-height:1.7; margin: 24px auto;}
 
-.body{ height:4700; background-color:transparent;width:82%; margin:0 auto 0 auto;}
+span {letter-spacing: .6px; font-size:18; font-weight: 500; color: #242321; font-weight: 600; opacity: .85;}
 
-.one {height:500;  width:1320; margin-left:-120;margin-top:-80; background-color:yellow; position:relative; z-index:-10;}
+.three {margin-top: 30px;}
 
-.two {height:150; background-color:transparent; padding-top:60;}
+#top{
+    margin-top: 50px;
+    margin-left: 0;
+}
 
-.title {font-size:25; text-align:center; margin-bottom:-10}
+.label{
+    font-size: 14px;
+    text-align: center;
+}
 
-.sub-title {font-size:20; text-align:center}
+.graph{
+    margin-top: -35px;
+    display: inline-block;
+    margin-bottom: 30px;
+}
+.graph p {
+    margin: 0px;
+}
+.graph img{
+    margin-top: 0px;
+    width: 60%;
+}
 
-.three {height:300; background-color:transparent}
+/*
+.sol{
+    margin: auto;
+}
 
-.four {height:500; background-color:transparent}
+.dsol{
+    display: inline;
+    margin: 50px;
+}
+*/
 
-.five {height:20; background-color:transparent; text-align:center; font-size:12;}
+/*
+.seven{
+    width: 85%;
+    margin: 10px auto 50px auto;
+    display: block;
+    
+}
+*/
+.ship{
+    width: 100%;
+    margin: 10px auto 50px auto;
+    display: block;
+    
+}
 
-.six {height:480; background-color:transparent}
 
-.seven {height:800; background-color:transparent}
+.lowernav table {
+    width: 100%;
+    margin-top: 100px;
+}
 
-.sevena {height:400; width:100%; background-color:transparent}
+.lowernav table td
+{ 
+    font-size: 18px;
+    opacity: .85;
+}
 
-.sevenb {height:400; width:100%; background-color:transparent}
+.lowernav table td:hover
+{ 
+    font-size: 18px;
+    opacity: 1;
+}
 
-.boxa, .boxc {height:380; width:48%; background-color:gray; margin-right:4%; float:left;}
 
-.boxb, .boxd {height:380; width:48%; background-color:gray; float:right;}
+.footer {
+    border-top: 80px solid white;
+    background-color: #ededed;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 60px;
+    font-size: 16px;
+    font-family: Questrial;
+}
 
-.eight {height:250; background-color:transparent}
+.footer ul{
+    margin: 0 auto;
+    padding: 0;
+    margin-bottom: 10px;
+}
 
-.nine {height:550; background-color:yellow}
+.footer ul li{
+    display:inline-block;
+    margin: 0;
+    padding: 15px;
+}
 
-.ten {height:250; background-color:transparent}
+.footer a{
+    text-decoration: none;
+    color: #6c6c6c;
+}
+.fb a:hover{color: #3b5998;}
+.li a:hover{color: #0077B5;}
+.in a:hover{color: #fb3958;}
+.dr a:hover{color: #ea4c89;}
+.be a:hover{color: #1769ff;}
 
-.eleven {height:250; background-color:transparent}
-
-.twelve {height:180; background-color:transparent}
-
-.thirteen {height:200; background-color:transparent}
-
-span {font-size:16; font-weight:bold}
-
-.footer {font-family:raleway; height: 200; background-color: #ededed; color:#6c6c6c; text-align: center; padding-top:20;}
-
-.footer li {display:inline; margin:0 30 0 0;}
+.footer p{
+    margin-bottom: 5px;
+    color: #6c6c6c;
+    font-size: 14px; margin-top: 18px; letter-spacing: .5px; display: inline;}
