@@ -6,7 +6,7 @@ body{
 .wrapper{
     width: 87%;
     margin: auto;
-    font-family: Questrial;
+    font-family: Questrial-Regular.ttf;
 }
 
 table{
@@ -107,7 +107,7 @@ p.texttitle{
     padding-top: 30px;
     padding-bottom: 60px;
     font-size: 16px;
-    font-family: Questrial;
+    font-family: Questrial-Regular.ttf-Regular.ttf;
 }
 
 .footer ul{
@@ -175,13 +175,13 @@ p.texttitle{
 
 .logo {height:100; background-color:transparent; width:30%; float:left; padding-top:30; }
 
-.header {height:100; background-color:transparent; width:70%; float:right; font-family:Questrial; text-align:right;}
+.header {height:100; background-color:transparent; width:70%; float:right; font-family:Questrial-Regular.ttf-Regular.ttf; text-align:right;}
 
 .header ul { margin-top:80;} 
 
 .header li {display:inline; margin:10 0 10 40;}
 
-.headbottom {height:220; background-color:transparent; padding-top: 80; font-family:Questrial;}
+.headbottom {height:220; background-color:transparent; padding-top: 80; font-family:Questrial-Regular.ttf-Regular.ttf;}
 
 	p.intro {line-height:1.5; font-size:15; margin-top:-10; }
 	
