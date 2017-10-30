@@ -1,14 +1,12 @@
 body{
-/*    border: 23px solid #ededed;*/
+    border: 23px solid #ededed;
     margin: 0;
     background-color:;
     position: relative;
     font-family: 'Questrial', sans-serif;
 }
 
-{
-    font-family: 'Questrial', sans-serif;
-}
+
 
 .heading{
     font-size: 28px;
@@ -49,7 +47,7 @@ p.texttitle{
 .cross{
     position: fixed;
     right: 55px;
-    top: 35px;
+    top: 45px;
     
 }
 
@@ -65,8 +63,8 @@ p.texttitle{
 .right{
     position: absolute;
     margin-left: 40%;
-    margin-top: 10vw;
-    width: 40%;
+    margin-top: 8vw;
+    width: 41%;
     z-index: 0;
     
     
@@ -105,7 +103,7 @@ p.texttitle{
 .dr a:hover{color: #ea4c89;}
 .be a:hover{color: #1769ff;}
 .back{
-    margin-top: 35px;
+    margin-top: 30px;
     text-decoration: none;
     background-color: #242321;
     padding: 10px;
@@ -117,13 +115,4 @@ p.texttitle{
     letter-spacing: .4px;
     
 }
-.back:hover{
-    margin-top: 35px;
-    text-decoration: none;
-    background-color: #242321;
-    padding: 10px;
-    color: white;
-    font-size: 16px;
-    opacity: .95;
-    letter-spacing: .4px;
-}
+.back:hover{background-color: #2c2c2c;}
