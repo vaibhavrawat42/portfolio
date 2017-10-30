@@ -4,6 +4,7 @@ body{
     background-color:;
     position: relative;
     font-family: 'Questrial', sans-serif;
+    overflow-y: hidden;
 }
 
 
