@@ -72,6 +72,10 @@ a{
     display: inline-block;
     
 }
+ .onea:hover{
+    display: inline-block;
+    opacity: .90;
+}
     
 .main{
     width: 360px;
