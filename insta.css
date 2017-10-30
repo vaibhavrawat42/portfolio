@@ -65,8 +65,11 @@ span {letter-spacing: .6px; font-size:18; font-weight: 500; color: #242321; font
     margin-top: -35px;
     display: inline-block;
     margin-bottom: 30px;
+    
 }
+
 .graph p {
+    line-height: 23px;
     margin: 0px;
 }
 .graph img{
