@@ -1,7 +1,7 @@
 body{
     border: 23px solid #ededed;
     margin: 0;
-    background-color:;
+     position: relative;
 }
 .wrapper{
     width: 87%;
