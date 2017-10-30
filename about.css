@@ -25,7 +25,7 @@ body{
     line-height: 1.5;
     font-size: 16px;
     margin-top: 0px;
-    
+    margin-bottom: 0;
     color: #666;
     letter-spacing: .5px;
 }
@@ -77,13 +77,13 @@ p.texttitle{
     
     
     padding-top: 10px;
-    
+    margin-bottom: 30px;
     font-size: 16px;
     font-family: 'Questrial', sans-serif;
 }
 
 .footer ul{
-    margin: 0 15px;
+    margin: 0 5px 0 0;
     padding: 0;
     margin-bottom: 10px;
 }
@@ -104,4 +104,26 @@ p.texttitle{
 .in a:hover{color: #fb3958;}
 .dr a:hover{color: #ea4c89;}
 .be a:hover{color: #1769ff;}
-
+.back{
+    margin-top: 35px;
+    text-decoration: none;
+    background-color: #242321;
+    padding: 10px;
+    color: white;
+    font-size: 16px;
+    display: block;
+    width: 15%;
+    text-align: center;
+    letter-spacing: .4px;
+    
+}
+.back:hover{
+    margin-top: 35px;
+    text-decoration: none;
+    background-color: #242321;
+    padding: 10px;
+    color: white;
+    font-size: 16px;
+    opacity: .95;
+    letter-spacing: .4px;
+}
