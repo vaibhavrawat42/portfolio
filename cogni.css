@@ -85,7 +85,11 @@ span {letter-spacing: .6px; font-size:18; font-weight: 500; color: #242321; font
 }
 
 .flex{
-    
+    margin: auto;
+    margin-top: 45px;
+}
+.myslide{
+    margin-left: 45px;
 }
 
 .ship{
