@@ -70,6 +70,24 @@ span {letter-spacing: .6px; font-size:18; font-weight: 500; color: #242321; font
     display: block;
     
 }
+
+.posters{
+    margin: auto;
+    display: block;
+}
+
+.posters2{
+    margin-top: 35px;
+}
+
+.mySlides{
+    margin-left: 45px;
+}
+
+.flex{
+    
+}
+
 .ship{
     width: 100%;
     margin: 10px auto 50px auto;
