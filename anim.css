@@ -23,16 +23,16 @@ table tr td{
     display: block;
     text-decoration: none;
     color: #666;
-    font-weight: 550; 
+    font-weight: 500;
+    opacity: 1;
 }
 
 .head table td a:hover{
     display: block;
     text-decoration: none;
-    color: #242321;
-    font-weight: 550;
-    opacity: 1;
-}
+   
+    font-weight: 500;
+    opacity: .81;}
 
 a{
     display: block;
@@ -57,7 +57,7 @@ span {letter-spacing: .6px; font-size:18; font-weight: 500; color: #242321; font
 }
 
 .lowernav table td
-{ 
+{   
     font-size: 18px;
     opacity: .85;
 }
