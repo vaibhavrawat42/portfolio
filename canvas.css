@@ -43,7 +43,7 @@ a{
 
 .title {font-size:25px; text-align:center; margin-top: 100px; margin-bottom:0; color: #282626;}
 
-.sub-title {font-size:16px; text-align:center; letter-spacing: 3px;}
+.sub-title {font-size:16px; text-align:center; letter-spacing: 3px; margin-top: 10px; margin-bottom: 40px;}
 .text {letter-spacing: .5px; font-size:16; line-height:1.7; margin: 24px auto;}
 
 span {letter-spacing: .6px; font-size:18; font-weight: 500; color: #242321; font-weight: 600; opacity: .85;}
